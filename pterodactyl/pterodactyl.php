@@ -283,6 +283,7 @@ function pterodactyl_CreateAccount(array $params) {
                     'first_name' => $params['clientsdetails']['firstname'],
                     'last_name' => $params['clientsdetails']['lastname'],
                     'external_id' => $params['clientsdetails']['id'],
+                    'password' => $params['password'],
                 ], 'POST');
             } else {
                 foreach($userResult['data'] as $key => $value) {
