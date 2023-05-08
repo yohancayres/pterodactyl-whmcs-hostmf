@@ -51,3 +51,6 @@ dedicated_ip|Dedicated IP => Will be displayed as "Dedicated IP" but will work c
 [Dane](https://github.com/DaneEveritt) and [everyone else](https://github.com/Pterodactyl/Panel/graphs/contributors) involved in development of the Pterodactyl Panel.  
 [death-droid](https://github.com/death-droid) for the original WHMCS module.  
 [Crident](https://crident.com) for providing me a dev environment to test the module on and the installation video.  
+
+## Hosting Options
+[Web Hosting](https://hostmf.com.br)  [VPS Windows](https://hostmf.com.br/vps-windows)  [VPS Linux](https://hostmf.com.br/vps-linux)
